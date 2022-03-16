@@ -1,0 +1,103 @@
+body{
+    margin: 0px;
+    font-family:Arial,
+    Helvetica,
+    sans-serif;
+}  
+
+#header {
+  display: flex;
+  width: 100%;
+  height: 60px;
+ top: 0px;
+  background-color: #2874f0;
+  align-items: center;
+  justify-content: space-evenly;
+    position: fixed;  
+  
+  
+
+}
+
+#header>a>img {
+  width: 30%;
+  height: 15%;
+  margin-left: 80%;
+}
+
+#header>input {
+  width: 40%;
+  height: 50%;
+  margin-right: 230px;
+}
+
+
+#header button {
+  width: 5%;
+  height: 50%;
+  color: #eceef1;
+  background-color: transparent;
+  border: transparent;
+  font-size: 17px;
+  font-weight: 600;
+}
+
+option {
+  width: 5%;
+  height: 50%;
+}
+
+#header p {
+  color: white;
+  font-size: larger;
+}
+
+#des {
+  height: 1700px;
+  width: 100%;
+  margin-left: 10px;
+}
+
+#des>p {
+  color: black;
+  font-size: 14px;
+}
+
+
+
+#des > h3 {
+  color: #a8998a;
+} 
+#footer {
+  display: flex;
+  height: 360px;
+  width: 100%;
+  justify-content: space-between;
+  gap: 10px;
+  background-color: #172337;
+}
+#footer > div {
+  display: flex;
+  flex-direction: column;
+  width: 90%;
+  justify-content: space-evenly;
+  margin-left: 15px;
+  align-items: baseline;
+}
+#footer > div > p {
+  font-size: small;
+  color: #ffffff;
+  border-left: 10px;
+  align-items: stretch;
+}
+#footer2 {
+  width: 100%;
+  display: flex;
+  background-color: #172337;
+  justify-content: space-evenly;
+  border-top: 1px solid white;
+}
+#footer2 > div {
+  display: flex;
+  gap: 5px;
+}
