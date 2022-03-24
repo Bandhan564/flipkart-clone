@@ -3,7 +3,7 @@ Kindmeal.my is The World's 1st Meat-Free Lifestyle Platform.
  
 ## For Local USe
 bash
-  git clone https://github.com/amareshcoding/kindmeal-clone-project.git
+  git clone https://github.com/Bandhan564/flipkart-clone
 
 
      
