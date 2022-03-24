@@ -49,7 +49,7 @@ User can Create Account and also Login to the account. We used some JavaScript f
 
 
 <h2 >Deploy Link :</h2>
-<p ><a rel="noreferrer" target="_blank" href="https://kindmeal-clone-project.netlify.app/" rel="nofollow">https://kindmeal-clone-project.netlify.app/</a></p>
+<p ><a rel="noreferrer" target="_blank" href="youthful-swirles-dbb43e.netlify.app" rel="nofollow">https://flipkartclone-project.netlify.app/</a></p>
 </article>
 </div>
 </div>
