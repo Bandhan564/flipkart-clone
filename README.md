@@ -49,7 +49,7 @@ User can Create Account and also Login to the account. We used some JavaScript f
 
 
 <h2 >Deploy Link :</h2>
-<p ><a rel="noreferrer" target="_blank" href="youthful-swirles-dbb43e.netlify.app" rel="nofollow"youthful-swirles-dbb43e.netlify.app</a></p>
+<p ><a rel="noreferrer" target="_blank" href="https://youthful-swirles-dbb43e.netlify.app/home.html" rel="nofollowhttps">https://youthful-swirles-dbb43e.netlify.app/home.html</a></p>
 </article>
 </div>
 </div>
